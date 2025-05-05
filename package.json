@@ -1,0 +1,25 @@
+{
+  "name": "driving-mvp-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaketmemerYT/driving-mvp-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaketmemerYT/driving-mvp-api/issues"
+  },
+  "homepage": "https://github.com/jaketmemerYT/driving-mvp-api#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "lowdb": "^7.0.1"
+  }
+}
