@@ -1,0 +1,1030 @@
+{
+  "trailheads": [
+    {
+      "id": "t1",
+      "name": "River Bend Loop",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "t2",
+      "name": "Coastal Drive",
+      "difficulty": "Moderate"
+    },
+    {
+      "id": "t3",
+      "name": "Mountain Pass",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "t3VTAWDZL7cOUnMEUEHI4",
+      "name": "W",
+      "difficulty": "Unknown"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "1746511062630",
+      "make": "Toyota",
+      "model": "Supra",
+      "year": 2020
+    },
+    {
+      "id": "1746511405004",
+      "make": "Toyota",
+      "model": "Supra",
+      "year": 2022
+    },
+    {
+      "id": "1746515285221",
+      "make": "Toyota",
+      "model": "4runner",
+      "year": 2018
+    },
+    {
+      "id": "1746603508298",
+      "make": "Hyundai ",
+      "model": "Elyantra GT",
+      "year": 2005
+    },
+    {
+      "id": "1746603549467",
+      "make": "Hyundai ",
+      "model": "Elyantra GT",
+      "year": 2005
+    },
+    {
+      "id": "1746642741090",
+      "make": "Dodge ",
+      "model": "Charger",
+      "year": 2007
+    }
+  ],
+  "routes": [
+    {
+      "trailId": "t1",
+      "coords": [
+        {
+          "altitude": 147.8000030517578,
+          "heading": 0,
+          "latitude": 45.4113446,
+          "longitude": -122.8243322,
+          "altitudeAccuracy": 1.2217365503311157,
+          "speed": 0,
+          "accuracy": 14.685999870300293
+        },
+        {
+          "altitude": 150.5332546663671,
+          "heading": 18.909902572631836,
+          "latitude": 45.4114815,
+          "longitude": -122.8242654,
+          "altitudeAccuracy": 1.313193440437317,
+          "speed": 1.6514878273010254,
+          "accuracy": 14.5
+        },
+        {
+          "altitude": 150.4260931617705,
+          "heading": 359.6475830078125,
+          "latitude": 45.4114218,
+          "longitude": -122.8242752,
+          "altitudeAccuracy": 1.3196192979812622,
+          "speed": 0.20460061728954315,
+          "accuracy": 13.75
+        },
+        {
+          "altitude": 147.8000030517578,
+          "heading": 355.8896484375,
+          "latitude": 45.4113953,
+          "longitude": -122.8243065,
+          "altitudeAccuracy": 0.6844720840454102,
+          "speed": 0.19828566908836365,
+          "accuracy": 13.279999732971191
+        }
+      ],
+      "duration": 19.559,
+      "avgSpeed": 0.513593528419733,
+      "timestamp": 1746488050963
+    },
+    {
+      "trailId": "t1",
+      "coords": [],
+      "duration": 0.298,
+      "avgSpeed": 0,
+      "timestamp": 1746488116267
+    },
+    {
+      "id": "1746515306772",
+      "trailId": "t3",
+      "coords": [],
+      "duration": 1.128,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746515306772
+    },
+    {
+      "id": "1746515323351",
+      "trailId": "t3",
+      "coords": [],
+      "duration": 0.642,
+      "avgSpeed": 0,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746515323351
+    },
+    {
+      "id": "1746515590572",
+      "trailId": "t2",
+      "coords": [
+        {
+          "altitude": 148.70001220703125,
+          "heading": 67.94029998779297,
+          "altitudeAccuracy": 0.7079922556877136,
+          "latitude": 45.411312,
+          "speed": 0.2975309491157532,
+          "longitude": -122.8242644,
+          "accuracy": 3.4019999504089355
+        }
+      ],
+      "duration": 10.482,
+      "avgSpeed": 0.2975309491157532,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746515590572
+    },
+    {
+      "id": "1746515629566",
+      "trailId": "t1",
+      "coords": [],
+      "duration": 2.353,
+      "avgSpeed": 0,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746515629566
+    },
+    {
+      "id": "1746515704604",
+      "trailId": "t1",
+      "coords": [
+        {
+          "altitude": 148.70001220703125,
+          "heading": 0,
+          "altitudeAccuracy": 0.7851107716560364,
+          "latitude": 45.4113208,
+          "speed": 0.004215537570416927,
+          "longitude": -122.8243228,
+          "accuracy": 9.810999870300293
+        }
+      ],
+      "duration": 58.156,
+      "avgSpeed": 0.004215537570416927,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746515704604
+    },
+    {
+      "id": "1746515783640",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 2.876,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746515783640
+    },
+    {
+      "id": "1746515800392",
+      "trailId": "t2",
+      "coords": [
+        {
+          "altitude": 148.70001220703125,
+          "heading": 0,
+          "altitudeAccuracy": 0.6337571740150452,
+          "latitude": 45.4113026,
+          "speed": 0.03990500420331955,
+          "longitude": -122.8243301,
+          "accuracy": 7.127999782562256
+        }
+      ],
+      "duration": 7.909,
+      "avgSpeed": 0.03990500420331955,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746515800392
+    },
+    {
+      "id": "1746515835567",
+      "trailId": "t3",
+      "coords": [
+        {
+          "altitude": 148.70001220703125,
+          "heading": 0,
+          "altitudeAccuracy": 0.6397663354873657,
+          "latitude": 45.4112865,
+          "speed": 0.05832700803875923,
+          "longitude": -122.8243388,
+          "accuracy": 3.4830000400543213
+        }
+      ],
+      "duration": 8.522,
+      "avgSpeed": 0.05832700803875923,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746515835567
+    },
+    {
+      "id": "1746596331254",
+      "trailId": "t3",
+      "coords": [],
+      "duration": 1.536,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746596331254
+    },
+    {
+      "id": "1746596338829",
+      "trailId": "t3",
+      "coords": [],
+      "duration": 0.678,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746596338829
+    },
+    {
+      "id": "1746596344864",
+      "trailId": "t3",
+      "coords": [],
+      "duration": 0.578,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746596344864
+    },
+    {
+      "id": "1746596350673",
+      "trailId": "t3",
+      "coords": [],
+      "duration": 0.122,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746596350673
+    },
+    {
+      "id": "1746596365858",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 0.98,
+      "avgSpeed": 0,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746596365858
+    },
+    {
+      "id": "1746596376619",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 0.863,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746596376619
+    },
+    {
+      "id": "1746597321242",
+      "trailId": "t1",
+      "coords": [],
+      "duration": 2.121,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746597321242
+    },
+    {
+      "id": "1746597945764",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 1.769,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746597945764
+    },
+    {
+      "id": "1746597945766",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 1.759,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746597945766
+    },
+    {
+      "id": "1746597979865",
+      "trailId": "t1",
+      "coords": [],
+      "duration": 14.878,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746597979865
+    },
+    {
+      "id": "1746598073200",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.4113012,
+          "longitude": -122.8242545
+        }
+      ],
+      "duration": 5.891,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746598073200
+    },
+    {
+      "id": "1746598109467",
+      "trailId": "t2",
+      "coords": [
+        {
+          "latitude": 45.411301,
+          "longitude": -122.8242631
+        }
+      ],
+      "duration": 4.788,
+      "avgSpeed": 0,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746598109467
+    },
+    {
+      "id": "1746600076825",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 6.764,
+      "avgSpeed": 0,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746600076825
+    },
+    {
+      "id": "1746600362286",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.4113525,
+          "longitude": -122.8243348
+        },
+        {
+          "latitude": 45.4113525,
+          "longitude": -122.8243348
+        }
+      ],
+      "duration": 2.105,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746600362286
+    },
+    {
+      "id": "1746600376363",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 32.661,
+      "avgSpeed": 0,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746600376363
+    },
+    {
+      "id": "1746600736082",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 255.562,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746600736082
+    },
+    {
+      "id": "1746601042835",
+      "trailId": "t2",
+      "coords": [
+        {
+          "latitude": 45.4176029,
+          "longitude": -122.8313825
+        }
+      ],
+      "duration": 329.419,
+      "avgSpeed": 0,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746601042835
+    },
+    {
+      "id": "1746601144843",
+      "trailId": "t2",
+      "coords": [
+        {
+          "latitude": 45.4113358,
+          "longitude": -122.8243411
+        },
+        {
+          "latitude": 45.4113358,
+          "longitude": -122.8243411
+        }
+      ],
+      "duration": 1.576,
+      "avgSpeed": 0,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746601144843
+    },
+    {
+      "id": "1746601155240",
+      "trailId": "t3",
+      "coords": [
+        {
+          "latitude": 45.4112705,
+          "longitude": -122.8244481
+        }
+      ],
+      "duration": 1.209,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746601155240
+    },
+    {
+      "id": "1746602062528",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 3.331,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746602062528
+    },
+    {
+      "id": "1746602514142",
+      "trailId": "t3",
+      "coords": [],
+      "duration": 15.188,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746602514142
+    },
+    {
+      "id": "1746602644254",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 22.885,
+      "avgSpeed": 0,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746602644254
+    },
+    {
+      "id": "1746632881630",
+      "trailId": "t2",
+      "coords": [
+        {
+          "latitude": 45.3567373,
+          "longitude": -122.8704348
+        }
+      ],
+      "duration": 14.546,
+      "avgSpeed": 0,
+      "vehicleId": "1746603508298",
+      "timestamp": 1746632881630
+    },
+    {
+      "id": "1746635627909",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.356078,
+          "longitude": -122.8697528
+        }
+      ],
+      "duration": 17.514,
+      "avgSpeed": 0,
+      "vehicleId": "1746603549467",
+      "timestamp": 1746635627909
+    },
+    {
+      "id": "1746640877232",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 6.053,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746640877232
+    },
+    {
+      "id": "1746642782192",
+      "trailId": "t2",
+      "coords": [
+        {
+          "latitude": 45.3571663,
+          "longitude": -122.8695984
+        }
+      ],
+      "duration": 14.177,
+      "avgSpeed": 0,
+      "vehicleId": "1746642741090",
+      "timestamp": 1746642782192
+    },
+    {
+      "id": "1746678356114",
+      "trailId": "t2",
+      "coords": [
+        {
+          "latitude": 45.4113445,
+          "longitude": -122.8243442
+        },
+        {
+          "latitude": 45.4113445,
+          "longitude": -122.8243442
+        }
+      ],
+      "duration": 2.196,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746678356114
+    },
+    {
+      "id": "1746678567975",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.4113753,
+          "longitude": -122.8242172
+        }
+      ],
+      "duration": 1.63,
+      "avgSpeed": 0,
+      "vehicleId": "1746642741090",
+      "timestamp": 1746678567975
+    },
+    {
+      "id": "1746678568803",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 7.008,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746678568803
+    },
+    {
+      "id": "1746678812266",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 5.049,
+      "avgSpeed": 0,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746678812266
+    },
+    {
+      "id": "1746678835778",
+      "trailId": "t2",
+      "coords": [
+        {
+          "latitude": 45.4113271,
+          "longitude": -122.8242499
+        },
+        {
+          "latitude": 45.4113271,
+          "longitude": -122.8242499
+        }
+      ],
+      "duration": 0.383,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746678835778
+    },
+    {
+      "id": "1746678868655",
+      "trailId": "t2",
+      "coords": [
+        {
+          "latitude": 45.4113464,
+          "longitude": -122.8243438
+        }
+      ],
+      "duration": 35.335,
+      "avgSpeed": 0,
+      "vehicleId": "1746603508298",
+      "timestamp": 1746678868655
+    },
+    {
+      "id": "1746678910849",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.4113369,
+          "longitude": -122.8244121
+        }
+      ],
+      "duration": 3.311,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746678910849
+    },
+    {
+      "id": "1746678922336",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.4113612,
+          "longitude": -122.8243325
+        }
+      ],
+      "duration": 1.414,
+      "avgSpeed": 0,
+      "vehicleId": "1746603508298",
+      "timestamp": 1746678922336
+    },
+    {
+      "id": "1746678928210",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 3,
+      "avgSpeed": 0,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746678928210
+    },
+    {
+      "id": "1746678932091",
+      "trailId": "t2",
+      "coords": [
+        {
+          "latitude": 45.4113441,
+          "longitude": -122.8243738
+        }
+      ],
+      "duration": 0.515,
+      "avgSpeed": 0,
+      "vehicleId": "1746511405004",
+      "timestamp": 1746678932091
+    },
+    {
+      "id": "1746678937731",
+      "trailId": "t3",
+      "coords": [
+        {
+          "latitude": 45.4113776,
+          "longitude": -122.82438
+        }
+      ],
+      "duration": 1.432,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746678937731
+    },
+    {
+      "id": "1746678977458",
+      "trailId": "t3",
+      "coords": [
+        {
+          "latitude": 45.4112639,
+          "longitude": -122.8242525
+        }
+      ],
+      "duration": 4.028,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746678977458
+    },
+    {
+      "id": "1746679533424",
+      "trailId": "t3",
+      "coords": [
+        {
+          "latitude": 45.411183,
+          "longitude": -122.8243449
+        }
+      ],
+      "duration": 1.09,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746679533424
+    },
+    {
+      "id": "1746679539530",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 6.355,
+      "avgSpeed": 0,
+      "vehicleId": "1746603508298",
+      "timestamp": 1746679539530
+    },
+    {
+      "id": "1746679559613",
+      "trailId": "t3",
+      "coords": [
+        {
+          "latitude": 45.4112654,
+          "longitude": -122.824279
+        }
+      ],
+      "duration": 2.642,
+      "avgSpeed": 0,
+      "vehicleId": "1746603549467",
+      "timestamp": 1746679559613
+    },
+    {
+      "id": "1746679602404",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.4113386,
+          "longitude": -122.8243426
+        }
+      ],
+      "duration": 3.079,
+      "avgSpeed": 0,
+      "vehicleId": "1746603549467",
+      "timestamp": 1746679602404
+    },
+    {
+      "id": "1746679616043",
+      "trailId": "t2",
+      "coords": [],
+      "duration": 1.817,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746679616043
+    },
+    {
+      "id": "1746679638095",
+      "trailId": "t1",
+      "coords": [],
+      "duration": 3.578,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746679638095
+    },
+    {
+      "id": "1746679654095",
+      "trailId": "t1",
+      "coords": [],
+      "duration": 2.73,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746679654095
+    },
+    {
+      "id": "1746679685038",
+      "trailId": "t1",
+      "coords": [],
+      "duration": 2.595,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746679685038
+    },
+    {
+      "id": "1746680345835",
+      "trailId": "t3",
+      "coords": [
+        {
+          "latitude": 45.4113857,
+          "longitude": -122.8242632
+        },
+        {
+          "latitude": 45.4113857,
+          "longitude": -122.8242632
+        }
+      ],
+      "duration": 2.039,
+      "avgSpeed": 0,
+      "vehicleId": "1746603549467",
+      "timestamp": 1746680345835
+    },
+    {
+      "id": "1746680360488",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.4113857,
+          "longitude": -122.8242632
+        },
+        {
+          "latitude": 45.4113857,
+          "longitude": -122.8242632
+        }
+      ],
+      "duration": 6.089,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746680360488
+    },
+    {
+      "id": "1746680368669",
+      "trailId": "t2",
+      "coords": [
+        {
+          "latitude": 45.4114004,
+          "longitude": -122.8245329
+        },
+        {
+          "latitude": 45.4114004,
+          "longitude": -122.8245329
+        },
+        {
+          "latitude": 45.4113392,
+          "longitude": -122.8243872
+        },
+        {
+          "latitude": 45.4113262,
+          "longitude": -122.8243582
+        },
+        {
+          "latitude": 45.4113156,
+          "longitude": -122.8243443
+        },
+        {
+          "latitude": 45.4113045,
+          "longitude": -122.8243348
+        },
+        {
+          "latitude": 45.4113064,
+          "longitude": -122.8243516
+        },
+        {
+          "latitude": 45.4113237,
+          "longitude": -122.8243338
+        },
+        {
+          "latitude": 45.4113353,
+          "longitude": -122.8243104
+        },
+        {
+          "latitude": 45.4113437,
+          "longitude": -122.8243177
+        },
+        {
+          "latitude": 45.4113337,
+          "longitude": -122.8243217
+        },
+        {
+          "latitude": 45.4113467,
+          "longitude": -122.8243192
+        },
+        {
+          "latitude": 45.4113559,
+          "longitude": -122.824324
+        },
+        {
+          "latitude": 45.4113464,
+          "longitude": -122.8243189
+        },
+        {
+          "latitude": 45.4113516,
+          "longitude": -122.824304
+        },
+        {
+          "latitude": 45.4113641,
+          "longitude": -122.8243146
+        },
+        {
+          "latitude": 45.4113731,
+          "longitude": -122.8243106
+        },
+        {
+          "latitude": 45.4113527,
+          "longitude": -122.8243158
+        }
+      ],
+      "duration": 24.802,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746680368669
+    },
+    {
+      "id": "1746680631193",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.4113573,
+          "longitude": -122.8243317
+        }
+      ],
+      "duration": 0.44,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746680631193
+    },
+    {
+      "id": "1746680653346",
+      "trailId": "t2",
+      "coords": [
+        {
+          "latitude": 45.4113457,
+          "longitude": -122.8243656
+        },
+        {
+          "latitude": 45.4113457,
+          "longitude": -122.8243656
+        },
+        {
+          "latitude": 45.411321,
+          "longitude": -122.8243426
+        },
+        {
+          "latitude": 45.4113271,
+          "longitude": -122.8243214
+        },
+        {
+          "latitude": 45.4113127,
+          "longitude": -122.8243249
+        },
+        {
+          "latitude": 45.4113029,
+          "longitude": -122.8243533
+        },
+        {
+          "latitude": 45.4113057,
+          "longitude": -122.8243721
+        }
+      ],
+      "duration": 11.492,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746680653346
+    },
+    {
+      "id": "1746680679693",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.4113055,
+          "longitude": -122.8243548
+        },
+        {
+          "latitude": 45.4113055,
+          "longitude": -122.8243548
+        }
+      ],
+      "duration": 1.639,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746680679693
+    },
+    {
+      "id": "1746680959055",
+      "trailId": "t2",
+      "coords": [
+        {
+          "latitude": 45.4112311,
+          "longitude": -122.8242866
+        },
+        {
+          "latitude": 45.4112311,
+          "longitude": -122.8242866
+        }
+      ],
+      "duration": 1.368,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746680959055
+    },
+    {
+      "id": "1746681155615",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.4112755,
+          "longitude": -122.824273
+        },
+        {
+          "latitude": 45.4112755,
+          "longitude": -122.824273
+        }
+      ],
+      "duration": 0.877,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746681155615
+    },
+    {
+      "id": "1746681300430",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.4113517,
+          "longitude": -122.8243076
+        },
+        {
+          "latitude": 45.4113517,
+          "longitude": -122.8243076
+        }
+      ],
+      "duration": 1.03,
+      "avgSpeed": 0,
+      "vehicleId": "1746511062630",
+      "timestamp": 1746681300430
+    },
+    {
+      "id": "1746681314633",
+      "trailId": "t1",
+      "coords": [
+        {
+          "latitude": 45.4113558,
+          "longitude": -122.8243623
+        },
+        {
+          "latitude": 45.4113558,
+          "longitude": -122.8243623
+        },
+        {
+          "latitude": 45.41141,
+          "longitude": -122.8243842
+        },
+        {
+          "latitude": 45.4114317,
+          "longitude": -122.824405
+        }
+      ],
+      "duration": 3.908,
+      "avgSpeed": 0,
+      "vehicleId": "1746515285221",
+      "timestamp": 1746681314633
+    }
+  ]
+}
