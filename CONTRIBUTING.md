@@ -125,5 +125,10 @@ Ensure you have the following installed and configured:
   ```
 
 ---
+## DEPLOYMENT
+
+```bash
+copy .\run_all.bat C:\Users\jaket\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+```
 
 Thank you for contributing! Let’s build something amazing together.
