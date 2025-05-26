@@ -1,0 +1,1099 @@
+{
+  "schemaVersion": "1.2.0",
+  "vehicles": [
+    {
+      "id": "1746685149924",
+      "make": "Hyundai ",
+      "model": "Elyantra",
+      "year": 2005
+    },
+    {
+      "id": "1746689250445",
+      "make": "Dodge",
+      "model": "Charger",
+      "year": 2026
+    }
+  ],
+  "routes": [
+    {
+      "id": "1746686760807",
+      "trailId": "5VluEUB2zKporU2XSsEIb",
+      "coords": [
+        {
+          "latitude": 45.4113446,
+          "longitude": -122.8243479
+        }
+      ],
+      "duration": 1.538,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746686760807,
+      "groupId": null
+    },
+    {
+      "id": "1746686778464",
+      "trailId": "MOVDs1ftmAomup44c3NXv",
+      "coords": [
+        {
+          "latitude": 45.4113442,
+          "longitude": -122.8240889
+        }
+      ],
+      "duration": 1.932,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746686778464,
+      "groupId": null
+    },
+    {
+      "id": "1746686809091",
+      "trailId": "uWjFHiIq3OfhfW1n7K8qN",
+      "coords": [
+        {
+          "latitude": 45.4113458,
+          "longitude": -122.8243456
+        }
+      ],
+      "duration": 2.094,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746686809091,
+      "groupId": null
+    },
+    {
+      "id": "1746686837950",
+      "trailId": "qZ9dhb4A43emK0rzvcGg5",
+      "coords": [
+        {
+          "latitude": 45.4113469,
+          "longitude": -122.824342
+        }
+      ],
+      "duration": 1.766,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746686837950,
+      "groupId": null
+    },
+    {
+      "id": "1746686847920",
+      "trailId": "Ajs0ItI0CLK6pjAi6_GY2",
+      "coords": [
+        {
+          "latitude": 45.411346,
+          "longitude": -122.8243663
+        }
+      ],
+      "duration": 77.397,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746686847920,
+      "groupId": null
+    },
+    {
+      "id": "1746686863373",
+      "trailId": "uOZIi5vgocyH1ZOyCxKCC",
+      "coords": [
+        {
+          "latitude": 45.4112673,
+          "longitude": -122.8243812
+        }
+      ],
+      "duration": 0.88,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746686863373,
+      "groupId": null
+    },
+    {
+      "id": "1746686891902",
+      "trailId": "cGwROswOFEVbi8a3PZQ8V",
+      "coords": [
+        {
+          "latitude": 45.4113508,
+          "longitude": -122.8243473
+        }
+      ],
+      "duration": 2.022,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746686891902,
+      "groupId": null
+    },
+    {
+      "id": "1746687261617",
+      "trailId": "nFLiyuJl3eTMQr-zQqyNt",
+      "coords": [
+        {
+          "latitude": 45.4113438,
+          "longitude": -122.824346
+        }
+      ],
+      "duration": 3.062,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746687261617,
+      "groupId": null
+    },
+    {
+      "id": "1746687971157",
+      "trailId": "QKTORcm0POrj5uCad6w60",
+      "coords": [
+        {
+          "latitude": 45.411354,
+          "longitude": -122.8243671
+        }
+      ],
+      "duration": 5.75,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746687971157,
+      "groupId": null
+    },
+    {
+      "id": "1746687971172",
+      "trailId": "C4wBY0bpR7ezAgH_MgmHN",
+      "coords": [
+        {
+          "latitude": 45.4113476,
+          "longitude": -122.8243355
+        }
+      ],
+      "duration": 1.88,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746687971172,
+      "groupId": null
+    },
+    {
+      "id": "1746688089777",
+      "trailId": "7835pMurKZF2yBMcC3__Y",
+      "coords": [
+        {
+          "latitude": 45.4113472,
+          "longitude": -122.8243402
+        }
+      ],
+      "duration": 1.207,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746688089777,
+      "groupId": null
+    },
+    {
+      "id": "1746688112224",
+      "trailId": "hcWufs3uPKayoD0iIE-az",
+      "coords": [
+        {
+          "latitude": 45.4113497,
+          "longitude": -122.8243571
+        }
+      ],
+      "duration": 6.812,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746688112224,
+      "groupId": null
+    },
+    {
+      "id": "1746688168555",
+      "trailId": "mnOMiLnDFaqbqpVXCd6cN",
+      "coords": [
+        {
+          "latitude": 45.4114336,
+          "longitude": -122.8241839
+        }
+      ],
+      "duration": 1.898,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746688168555,
+      "groupId": null
+    },
+    {
+      "id": "1746688201833",
+      "trailId": "OuquiDAxXb0oxz_TxmfqK",
+      "coords": [
+        {
+          "latitude": 45.4113357,
+          "longitude": -122.8243374
+        }
+      ],
+      "duration": 1.197,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746688201833,
+      "groupId": null
+    },
+    {
+      "id": "1746688459815",
+      "trailId": "dRHBmjVFmF1h5sOQuBAAg",
+      "coords": [
+        {
+          "latitude": 45.4113367,
+          "longitude": -122.8243478
+        }
+      ],
+      "duration": 1.499,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746688459815,
+      "groupId": null
+    },
+    {
+      "id": "1746688579810",
+      "trailId": "4CQkx_Rym7Fb_LkCGUyHO",
+      "coords": [
+        {
+          "latitude": 45.4113572,
+          "longitude": -122.8243677
+        }
+      ],
+      "duration": 6.865,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746688579810,
+      "groupId": null
+    },
+    {
+      "id": "1746688594532",
+      "trailId": "3ayrMUG9P_v71yTZS6F9T",
+      "coords": [
+        {
+          "latitude": 45.4113407,
+          "longitude": -122.8243345
+        }
+      ],
+      "duration": 17.94,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746688594532,
+      "groupId": null
+    },
+    {
+      "id": "1746688876811",
+      "trailId": "80ZbT0FcmoX0B3tLGypgd",
+      "coords": [
+        {
+          "latitude": 45.4113428,
+          "longitude": -122.8243308
+        }
+      ],
+      "duration": 3.426,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746688876811,
+      "groupId": null
+    },
+    {
+      "id": "1746688885809",
+      "trailId": "nD1aQnF-jShicx4J0QjWA",
+      "coords": [
+        {
+          "latitude": 45.4113492,
+          "longitude": -122.8243635
+        }
+      ],
+      "duration": 11.391,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746688885809,
+      "groupId": null
+    },
+    {
+      "id": "1746688910412",
+      "trailId": "bn-QetturZSO4CHfHqK1q",
+      "coords": [
+        {
+          "latitude": 45.4113316,
+          "longitude": -122.824283
+        }
+      ],
+      "duration": 3.418,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746688910412,
+      "groupId": null
+    },
+    {
+      "id": "1746689220609",
+      "trailId": "YyQ1qYVbc0e1d3SkrfzTA",
+      "coords": [
+        {
+          "latitude": 45.4113506,
+          "longitude": -122.8243292
+        }
+      ],
+      "duration": 2.179,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746689220609,
+      "groupId": null
+    },
+    {
+      "id": "1746689308627",
+      "trailId": "-E1wPoAGDs_fghADtCxg4",
+      "coords": [
+        {
+          "latitude": 45.4113443,
+          "longitude": -122.8243317
+        }
+      ],
+      "duration": 1.351,
+      "avgSpeed": 0,
+      "vehicleId": "1746689250445",
+      "timestamp": 1746689308627,
+      "groupId": null
+    },
+    {
+      "id": "1746689327490",
+      "trailId": "GA4vWtkUhBpR-u5ZFtFxd",
+      "coords": [
+        {
+          "latitude": 45.4113443,
+          "longitude": -122.8243317
+        }
+      ],
+      "duration": 2.126,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746689327490,
+      "groupId": null
+    },
+    {
+      "id": "1746689401287",
+      "trailId": "VzcyYeiYAqykyhdP4VYBu",
+      "coords": [
+        {
+          "latitude": 45.4113782,
+          "longitude": -122.8242484
+        }
+      ],
+      "duration": 100.507,
+      "avgSpeed": 0,
+      "vehicleId": "1746689250445",
+      "timestamp": 1746689401287,
+      "groupId": null
+    },
+    {
+      "id": "1746689421881",
+      "trailId": "KPYeA4QX7wlfwbt6OlUKr",
+      "coords": [
+        {
+          "latitude": 45.4113464,
+          "longitude": -122.8243479
+        }
+      ],
+      "duration": 3.532,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746689421881,
+      "groupId": null
+    },
+    {
+      "id": "1746689509227",
+      "trailId": "-5MDpat0QbVpj45obV8Gs",
+      "coords": [
+        {
+          "latitude": 45.4113461,
+          "longitude": -122.8243439
+        }
+      ],
+      "duration": 1.951,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746689509227,
+      "groupId": null
+    },
+    {
+      "id": "1746689629716",
+      "trailId": "bFVjrwzzKSbU45hPWXES-",
+      "coords": [
+        {
+          "latitude": 45.4113699,
+          "longitude": -122.8242995
+        }
+      ],
+      "duration": 3.349,
+      "avgSpeed": 0,
+      "vehicleId": "1746689250445",
+      "timestamp": 1746689629716,
+      "groupId": null
+    },
+    {
+      "id": "1746831418298",
+      "trailId": "A5B5Z1exE7oUtPgIrj2Mk",
+      "coords": [
+        {
+          "latitude": 45.3584823,
+          "longitude": -122.8677757
+        }
+      ],
+      "duration": 816.174,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "timestamp": 1746831418298,
+      "groupId": null
+    },
+    {
+      "id": "1747712740719",
+      "trailId": "5XeHITgrjEK5MYa2rM7Ft",
+      "coords": [
+        {
+          "latitude": 45.4111916,
+          "longitude": -122.8245638
+        }
+      ],
+      "duration": 35.284,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "groupId": "NFy0nuisJc5-vCKQBzUrz",
+      "timestamp": 1747712740719
+    },
+    {
+      "id": "1747713232656",
+      "trailId": "WreLRm0FCD9hLmecRva1a",
+      "coords": [
+        {
+          "latitude": 45.4113375,
+          "longitude": -122.8242831
+        }
+      ],
+      "duration": 53.874,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "groupId": "mqLIwhYWq1pAh2ITRKWrT",
+      "timestamp": 1747713232656
+    },
+    {
+      "id": "1747713271747",
+      "trailId": "5XeHITgrjEK5MYa2rM7Ft",
+      "coords": [
+        {
+          "latitude": 45.4113574,
+          "longitude": -122.8243517
+        }
+      ],
+      "duration": 20.325,
+      "avgSpeed": 0,
+      "vehicleId": "1746685149924",
+      "groupId": "NFy0nuisJc5-vCKQBzUrz",
+      "timestamp": 1747713271747
+    },
+    {
+      "id": "1747713964708",
+      "trailId": "6iWQWbUCVGlP18Vnw5Ugy",
+      "coords": [
+        {
+          "accuracy": 16.27400016784668,
+          "longitude": -122.8243522,
+          "altitude": 147.3000030517578,
+          "heading": 0,
+          "latitude": 45.411351,
+          "altitudeAccuracy": 0.699073076248169,
+          "speed": 0
+        },
+        {
+          "accuracy": 16.27400016784668,
+          "longitude": -122.8243522,
+          "altitude": 147.3000030517578,
+          "heading": 0,
+          "latitude": 45.411351,
+          "altitudeAccuracy": 0.699073076248169,
+          "speed": 0
+        },
+        {
+          "accuracy": 15.895000457763672,
+          "longitude": -122.8243622,
+          "altitude": 147.3000030517578,
+          "heading": 0,
+          "latitude": 45.4113491,
+          "altitudeAccuracy": 0.7233573198318481,
+          "speed": 0.0934193879365921
+        },
+        {
+          "accuracy": 15.895000457763672,
+          "longitude": -122.8243622,
+          "altitude": 147.3000030517578,
+          "heading": 0,
+          "latitude": 45.4113491,
+          "altitudeAccuracy": 0.7233573198318481,
+          "speed": 0.0934193879365921
+        },
+        {
+          "accuracy": 15.895000457763672,
+          "longitude": -122.8243622,
+          "altitude": 147.3000030517578,
+          "heading": 0,
+          "latitude": 45.4113491,
+          "altitudeAccuracy": 0.7233573198318481,
+          "speed": 0.0934193879365921
+        },
+        {
+          "accuracy": 15.895000457763672,
+          "longitude": -122.8243622,
+          "altitude": 147.3000030517578,
+          "heading": 0,
+          "latitude": 45.4113491,
+          "altitudeAccuracy": 0.7233573198318481,
+          "speed": 0.0934193879365921
+        },
+        {
+          "accuracy": 14.87399959564209,
+          "longitude": -122.8243701,
+          "altitude": 147.3000030517578,
+          "heading": 257.53106689453125,
+          "latitude": 45.4113479,
+          "altitudeAccuracy": 0.7438817024230957,
+          "speed": 0.1877039670944214
+        },
+        {
+          "accuracy": 14.87399959564209,
+          "longitude": -122.8243701,
+          "altitude": 147.3000030517578,
+          "heading": 257.53106689453125,
+          "latitude": 45.4113479,
+          "altitudeAccuracy": 0.7438817024230957,
+          "speed": 0.1877039670944214
+        },
+        {
+          "accuracy": 14.87399959564209,
+          "longitude": -122.8243701,
+          "altitude": 147.3000030517578,
+          "heading": 257.53106689453125,
+          "latitude": 45.4113479,
+          "altitudeAccuracy": 0.7438817024230957,
+          "speed": 0.1877039670944214
+        },
+        {
+          "accuracy": 13.131999969482422,
+          "longitude": -122.8243993,
+          "altitude": 147.3000030517578,
+          "heading": 256.1741027832031,
+          "latitude": 45.4113428,
+          "altitudeAccuracy": 0.6774263381958008,
+          "speed": 1.4060497283935547
+        },
+        {
+          "accuracy": 13.131999969482422,
+          "longitude": -122.8243993,
+          "altitude": 147.3000030517578,
+          "heading": 256.1741027832031,
+          "latitude": 45.4113428,
+          "altitudeAccuracy": 0.6774263381958008,
+          "speed": 1.4060497283935547
+        },
+        {
+          "accuracy": 13.817999839782715,
+          "longitude": -122.8243696,
+          "altitude": 147.3000030517578,
+          "heading": 78.57523345947266,
+          "latitude": 45.4113474,
+          "altitudeAccuracy": 0.7082036137580872,
+          "speed": 0.3028157651424408
+        },
+        {
+          "accuracy": 13.817999839782715,
+          "longitude": -122.8243696,
+          "altitude": 147.3000030517578,
+          "heading": 78.57523345947266,
+          "latitude": 45.4113474,
+          "altitudeAccuracy": 0.7082036137580872,
+          "speed": 0.3028157651424408
+        },
+        {
+          "accuracy": 13.817999839782715,
+          "longitude": -122.8243696,
+          "altitude": 147.3000030517578,
+          "heading": 78.57523345947266,
+          "latitude": 45.4113474,
+          "altitudeAccuracy": 0.7082036137580872,
+          "speed": 0.3028157651424408
+        },
+        {
+          "accuracy": 13.817999839782715,
+          "longitude": -122.8243696,
+          "altitude": 147.3000030517578,
+          "heading": 78.57523345947266,
+          "latitude": 45.4113474,
+          "altitudeAccuracy": 0.7082036137580872,
+          "speed": 0.3028157651424408
+        },
+        {
+          "accuracy": 18.40399932861328,
+          "longitude": -122.8243602,
+          "altitude": 147.3000030517578,
+          "heading": 82.5186767578125,
+          "latitude": 45.4113481,
+          "altitudeAccuracy": 0.7341684699058533,
+          "speed": 0.19433128833770752
+        },
+        {
+          "accuracy": 18.40399932861328,
+          "longitude": -122.8243602,
+          "altitude": 147.3000030517578,
+          "heading": 82.5186767578125,
+          "latitude": 45.4113481,
+          "altitudeAccuracy": 0.7341684699058533,
+          "speed": 0.19433128833770752
+        },
+        {
+          "accuracy": 18.40399932861328,
+          "longitude": -122.8243602,
+          "altitude": 147.3000030517578,
+          "heading": 82.5186767578125,
+          "latitude": 45.4113481,
+          "altitudeAccuracy": 0.7341684699058533,
+          "speed": 0.19433128833770752
+        },
+        {
+          "accuracy": 18.40399932861328,
+          "longitude": -122.8243602,
+          "altitude": 147.3000030517578,
+          "heading": 82.5186767578125,
+          "latitude": 45.4113481,
+          "altitudeAccuracy": 0.7341684699058533,
+          "speed": 0.19433128833770752
+        },
+        {
+          "accuracy": 13.697999954223633,
+          "longitude": -122.8243363,
+          "altitude": 149.32832621376843,
+          "heading": 173.7770233154297,
+          "latitude": 45.4114055,
+          "altitudeAccuracy": 0.7556437849998474,
+          "speed": 0.7059741020202637
+        },
+        {
+          "accuracy": 13.697999954223633,
+          "longitude": -122.8243363,
+          "altitude": 149.32832621376843,
+          "heading": 173.7770233154297,
+          "latitude": 45.4114055,
+          "altitudeAccuracy": 0.7556437849998474,
+          "speed": 0.7059741020202637
+        }
+      ],
+      "duration": 20.985,
+      "avgSpeed": 0.34044882513227914,
+      "vehicleId": "1746685149924",
+      "groupId": null,
+      "timestamp": 1747713964708
+    },
+    {
+      "id": "1747713978206",
+      "trailId": "6iWQWbUCVGlP18Vnw5Ugy",
+      "coords": [
+        {
+          "accuracy": 8.65999984741211,
+          "longitude": -122.8243451,
+          "altitude": 149.28017677727865,
+          "heading": 173.28875732421875,
+          "latitude": 45.4114257,
+          "altitudeAccuracy": 0.8209234476089478,
+          "speed": 0.5261786580085754
+        },
+        {
+          "accuracy": 8.65999984741211,
+          "longitude": -122.8243451,
+          "altitude": 149.28017677727865,
+          "heading": 173.28875732421875,
+          "latitude": 45.4114257,
+          "altitudeAccuracy": 0.8209234476089478,
+          "speed": 0.5261786580085754
+        },
+        {
+          "accuracy": 7.275000095367432,
+          "longitude": -122.8243391,
+          "altitude": 149.32832621376843,
+          "heading": 12.712674140930176,
+          "latitude": 45.4114449,
+          "altitudeAccuracy": 0.8418416976928711,
+          "speed": 0.641999363899231
+        },
+        {
+          "accuracy": 7.275000095367432,
+          "longitude": -122.8243391,
+          "altitude": 149.32832621376843,
+          "heading": 12.712674140930176,
+          "latitude": 45.4114449,
+          "altitudeAccuracy": 0.8418416976928711,
+          "speed": 0.641999363899231
+        },
+        {
+          "accuracy": 7.275000095367432,
+          "longitude": -122.8243391,
+          "altitude": 149.32832621376843,
+          "heading": 12.712674140930176,
+          "latitude": 45.4114449,
+          "altitudeAccuracy": 0.8418416976928711,
+          "speed": 0.641999363899231
+        }
+      ],
+      "duration": 4.137,
+      "avgSpeed": 0.5956710815429688,
+      "vehicleId": "1746685149924",
+      "groupId": null,
+      "timestamp": 1747713978206
+    },
+    {
+      "id": "1747714096967",
+      "trailId": "DefvUaz86a7VqWTxStsd4",
+      "coords": [
+        {
+          "accuracy": 17,
+          "altitude": 147.3000030517578,
+          "altitudeAccuracy": 2.321800947189331,
+          "heading": 0,
+          "latitude": 45.4115994,
+          "longitude": -122.8242479,
+          "speed": 0.07999999821186066
+        },
+        {
+          "accuracy": 17,
+          "altitude": 147.3000030517578,
+          "altitudeAccuracy": 2.321800947189331,
+          "heading": 0,
+          "latitude": 45.4115994,
+          "longitude": -122.8242479,
+          "speed": 0.07999999821186066
+        },
+        {
+          "accuracy": 17,
+          "altitude": 147.3000030517578,
+          "altitudeAccuracy": 2.321800947189331,
+          "heading": 0,
+          "latitude": 45.4115994,
+          "longitude": -122.8242479,
+          "speed": 0.07999999821186066
+        }
+      ],
+      "duration": 7.107,
+      "avgSpeed": 0.07999999821186066,
+      "vehicleId": "1746685149924",
+      "groupId": null,
+      "timestamp": 1747714096967
+    },
+    {
+      "id": "1747720493907",
+      "trailId": "4ebTJ9WP3wmEf4mIESUex",
+      "coords": [
+        {
+          "accuracy": 9,
+          "altitude": 164.50001525878906,
+          "altitudeAccuracy": 1.5515645742416382,
+          "heading": 99.03841400146484,
+          "latitude": 45.419425,
+          "longitude": -122.8307292,
+          "speed": 7.524136543273926
+        }
+      ],
+      "duration": 0.106,
+      "avgSpeed": 7.524136543273926,
+      "vehicleId": "1746685149924",
+      "groupId": null,
+      "timestamp": 1747720493907
+    }
+  ],
+  "trailheads": [
+    {
+      "id": "t1",
+      "name": "River Bend Loop",
+      "difficulty": "easy"
+    },
+    {
+      "id": "t2",
+      "name": "Coastal Drive",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "t3",
+      "name": "Mountain Pass",
+      "difficulty": "advanced"
+    },
+    {
+      "id": "5KjVqM6Or99JZPBWaKwjh",
+      "name": "W",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "XEXKZhwNYGRDppS76q2jv",
+      "name": "Run1",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "7T4Rc74wf6584RGofQcbn",
+      "name": "W",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "9Opa_MBpPRrvkMgwtCUlB",
+      "name": "Run2",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "cMYNDyCU7ZT4Qd_WMtyw5",
+      "name": "Run3",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "arTzH9HL_nhuY3jRwKf1T",
+      "name": "W",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "qER3nYji1NxkA1aJwkTZl",
+      "name": "Run5",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "GN5uGTRDzGBNo76Hye-6N",
+      "name": "Run1",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "2PJXJe3wfd_6c2ChkcXWE",
+      "name": "W",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "KUmakjFYOyCyAzvTPmRZe",
+      "name": "1",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "mMkJDdqvQILhj2qKgkdMn",
+      "name": "W",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "5VluEUB2zKporU2XSsEIb",
+      "name": "W",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "Ajs0ItI0CLK6pjAi6_GY2",
+      "name": "Run1",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "MOVDs1ftmAomup44c3NXv",
+      "name": "W",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "uWjFHiIq3OfhfW1n7K8qN",
+      "name": "W",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "qZ9dhb4A43emK0rzvcGg5",
+      "name": "W",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "uOZIi5vgocyH1ZOyCxKCC",
+      "name": "W",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "cGwROswOFEVbi8a3PZQ8V",
+      "name": "Run2",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "nFLiyuJl3eTMQr-zQqyNt",
+      "name": "Wasd",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "QKTORcm0POrj5uCad6w60",
+      "name": "New1",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "C4wBY0bpR7ezAgH_MgmHN",
+      "name": "W",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "7835pMurKZF2yBMcC3__Y",
+      "name": "W",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "hcWufs3uPKayoD0iIE-az",
+      "name": "Run8",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "mnOMiLnDFaqbqpVXCd6cN",
+      "name": "Neil#1",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "OuquiDAxXb0oxz_TxmfqK",
+      "name": "Neil#2",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "rhk3FHBPWp4LCTke3eCm0",
+      "name": "Dad#1",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "dRHBmjVFmF1h5sOQuBAAg",
+      "name": "G",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "4CQkx_Rym7Fb_LkCGUyHO",
+      "name": "Dad#2",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "3ayrMUG9P_v71yTZS6F9T",
+      "name": "G2",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "80ZbT0FcmoX0B3tLGypgd",
+      "name": "G3",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "nD1aQnF-jShicx4J0QjWA",
+      "name": "Dad#3",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "bn-QetturZSO4CHfHqK1q",
+      "name": "Dad#4",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "YyQ1qYVbc0e1d3SkrfzTA",
+      "name": "Dad#5",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "VzcyYeiYAqykyhdP4VYBu",
+      "name": "Dad#6",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "-E1wPoAGDs_fghADtCxg4",
+      "name": "Y",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "GA4vWtkUhBpR-u5ZFtFxd",
+      "name": "Y",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "KPYeA4QX7wlfwbt6OlUKr",
+      "name": "T",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "-5MDpat0QbVpj45obV8Gs",
+      "name": "Wass",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "bFVjrwzzKSbU45hPWXES-",
+      "name": "Dad#9",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "ejW7g52SSGWL67tHUb0XA",
+      "name": "School",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "A5B5Z1exE7oUtPgIrj2Mk",
+      "name": "School",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "5XeHITgrjEK5MYa2rM7Ft",
+      "name": "Xyz",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "WreLRm0FCD9hLmecRva1a",
+      "name": "New1",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "6iWQWbUCVGlP18Vnw5Ugy",
+      "name": "Town Center Loop",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "mcudTQXatsEe85kKHAYvJ",
+      "name": "Home-school",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "DefvUaz86a7VqWTxStsd4",
+      "name": "Home-school",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "SLS0j-aZCBfkmDI6Giwkt",
+      "name": "Walk1",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "4ebTJ9WP3wmEf4mIESUex",
+      "name": "Walk2",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "P5pc34nHXRcowDWVIqVTO",
+      "name": "From bible study",
+      "difficulty": "Unknown"
+    },
+    {
+      "id": "DNVt6nk4x23iZIJ2Vp8OY",
+      "name": "Bible study dads phone",
+      "difficulty": "Unknown"
+    }
+  ],
+  "groups": [
+    {
+      "id": "NFy0nuisJc5-vCKQBzUrz",
+      "name": "Coast Cruisers",
+      "isPrivate": true
+    },
+    {
+      "id": "mqLIwhYWq1pAh2ITRKWrT",
+      "name": "Coasters",
+      "isPrivate": true
+    },
+    {
+      "id": "-T6tUmt7qNeHJTvIUX7Uu",
+      "name": "Public Ride",
+      "isPrivate": false
+    }
+  ],
+  "users": [],
+  "groupMembers": [],
+  "categories": [
+    {
+      "id": "X0HD-1RiSyQEbt4e85-Mr",
+      "name": "Scenic"
+    },
+    {
+      "id": "8fALHQNUUw5fWsyrwRru9",
+      "name": "Challenging"
+    },
+    {
+      "id": "n-tyUegOq3iuo1VL-qXHk",
+      "name": "Off-Road"
+    }
+  ],
+  "trailCategories": []
+}
