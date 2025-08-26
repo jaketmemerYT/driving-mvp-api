@@ -25,10 +25,17 @@ echo Waiting for ngrok API on 127.0.0.1:4040…
   if errorlevel 1 goto WAIT_NGROK
 
 REM --- 4) Extract the HTTPS tunnel URL & write to config.js ---
-echo Patching driving-mvp-app\config.js with live ngrok URL…
-powershell -NoProfile -Command " $t=Invoke-RestMethod 'http://127.0.0.1:4040/api/tunnels'; $url=($t.tunnels | Where-Object { $_.proto -eq 'https' } | Select-Object -First 1).public_url; Set-Content -Encoding UTF8 -Path 'C:\Users\jaket\driving-mvp-app\config.js' -Value \"export const API_BASE = '$url';\" "
+echo Patching driving-mvp-app\api_base.json with live ngrok URL…
+
+powershell -NoProfile -Command ^
+  "$t = Invoke-RestMethod 'http://127.0.0.1:4040/api/tunnels';" ^
+  "$url = ($t.tunnels | Where-Object { $_.proto -eq 'https' } | Select-Object -First 1).public_url;" ^
+  "if (-not $url) { throw 'No https tunnel found' }" ^
+  "$json = @{ API_BASE = $url } | ConvertTo-Json -Compress;" ^
+  "Set-Content -Encoding UTF8 -Path 'C:\Users\jaket\driving-mvp-app\api_base.json' -Value $json"
+
 if errorlevel 1 (
-  echo Failed to patch config.js. Please check your ngrok installation.
+  echo Failed to patch api_base.json. Please check your ngrok installation. We could fallback to localhost:3000
   exit /b 1
 )
 

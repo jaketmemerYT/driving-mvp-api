@@ -20,6 +20,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
+    "haversine-distance": "^1.2.3",
+    "multer": "^2.0.2",
     "nanoid": "^5.1.5"
   }
 }
